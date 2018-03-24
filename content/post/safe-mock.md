@@ -1,6 +1,6 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["Lorem"]
+categories = ["Safe Mock"]
 date = "2017-03-03T13:39:46+02:00"
 menu = "main"
 weight = 11
@@ -8,7 +8,9 @@ tags = []
 title = "Safe Mock"
 +++
 
-Safe Mock is a library for Typescript (or Javascript) that allows mocks to be created from typescript interfaces or classes and utilized with simple typesafe syntax.
+[Safe Mock](http://www.github.com/matthewmcnew/safe-mock) is a library for Typescript (or Javascript) that allows mocks to be created from typescript interfaces or classes and utilized with simple typesafe syntax.
+
+<!--more-->
 
 The syntax is inspired by Mockito.
 
