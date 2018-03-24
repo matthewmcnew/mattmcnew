@@ -1,0 +1,10 @@
+---
+applications:
+- name: mattmcnew
+  memory: 64M
+  instances: 1
+  path: public
+  buildpack: staticfile_buildpack
+  routes:
+  - route: mattmcnew.cfapps.io
+  - route: www.mattmcnew.com
