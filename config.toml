@@ -51,7 +51,7 @@ pygmentsCodeFences=true
 	[params.about]
 		hide  = false
 		title = "Hi, I'm Matt McNew"
-		content = "I'm a Software Engineer at [Pivotal](http://www.pivotal.io/). Check out my [Github](http://wwww.github.com/matthewmcnew). </br> I maintain a statically typed typescript mocking library: [Safe Mock](/post/safe-mock) </br> I love to travel. Check out my travel photos at: [trackmatt.com](http://trackmatt.com) "
+		content = "I'm a Software Engineer at [Pivotal](http://www.pivotal.io/). Check out my [Github](http://wwww.github.com/matthewmcnew). </br> I maintain a statically typed typescript mocking library: [Safe Mock](/post/safe-mock) </br> I like to talk about software. [My Presentations](/categories/presentations/) </br> I love to travel. Check out my travel photos at: [trackmatt.com](http://trackmatt.com) "
 
 
 	[params.portfolio]
